@@ -1,3 +1,5 @@
+![Alt text](Frame-712.jpg)
+
 # 💫 About Me:
 👋 Hi! I’m a student at Western Institute of Technology.<br>💻 I’m interested in collaborating on simple and beginner-friendly projects.<br>📚 I’m always open to learning from others and improving my coding skills.<br>🚀 Currently learning JavaScript and ReactJS.
 
