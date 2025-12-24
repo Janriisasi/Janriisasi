@@ -1,4 +1,15 @@
-![Alt text](Frame-712.jpg)
+<p align="center">
+  <img 
+    src="Frame-712.jpg"
+    width="380"
+    style="
+      border-radius: 14px;
+      border: 1px solid #e5e7eb;
+      box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+    "
+  />
+</p>
+
 
 # 💫 About Me:
 👋 Hi! I’m a student at Western Institute of Technology.<br>💻 I’m interested in collaborating on simple and beginner-friendly projects.<br>📚 I’m always open to learning from others and improving my coding skills.<br>🚀 Currently learning JavaScript and ReactJS.
