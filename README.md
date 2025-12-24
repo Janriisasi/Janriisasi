@@ -1,11 +1,12 @@
 <p align="center">
   <img 
     src="Frame-712.jpg"
-    width="380"
+    width="1080"
     style="
-      border-radius: 14px;
+      border-radius: 50px;
       border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.25);
+      max-width: 100%;
     "
   />
 </p>
